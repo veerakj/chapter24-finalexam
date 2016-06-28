@@ -255,6 +255,7 @@ body > #header, #newlifeArea, body > #footer_menu, body > #footer_nav, .goToTop,
 	#newlife_2nd_container .desc{
 		width: 99.5%;
 		padding: 0;
+		/*padding:4%*/
 	}
 	#newlife_2nd_container > table td{
 		width: 100%;
